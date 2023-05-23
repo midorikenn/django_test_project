@@ -16,9 +16,9 @@ logs
 
 # The file containing environment variables 
 .env
-
+.venv
 # Ignore IDE specific files
-.idea/
+.idea
 .vscode/
 *.sw*
 venv/
