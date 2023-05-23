@@ -21,3 +21,4 @@ logs
 .idea/
 .vscode/
 *.sw*
+venv/
